@@ -62,3 +62,4 @@ package homework.task_03;
         System.out.println("Цена букета = " + price);
     }
 }
+//Test
